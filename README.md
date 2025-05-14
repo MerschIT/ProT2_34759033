@@ -1,23 +1,22 @@
-# 馃殌 Mi Proyecto Web
+# ?? Proyecto: Pagina web responsive 
+# Talentos Digitales
+## ?? Descripción
+Este es un proyecto web dise?ado para el tramo 2 de la cursada del programa Talentos Digitales de la provincia de Corrientes.
 
-## 馃専 Descripci贸n
-Este es un proyecto web dise帽ado para [tu prop贸sito aqu铆]. Utiliza tecnolog铆as modernas para ofrecer una experiencia 贸ptima a los usuarios.
+## ?? Características
+- Dise?o responsivo
+- Otro
+- Otro
 
-## 馃搶 Caracter铆sticas
-- Dise帽o responsivo
-- Integraci贸n con API externas
-- Optimizaci贸n para SEO
-- C贸digo limpio y modular
 
-## 馃洜锔?Tecnolog铆as utilizadas
+## ??? Tecnologías utilizadas
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- Framework [nombre del framework]
-- Base de datos [nombre de la base de datos]
+- Framework Bootstrap
+- Base de datos ....
 
-## 馃摲 Im谩genes de referencia
-![Ejemplo de interfaz](https://charly3pins.dev/es/blog/cree-un-readme-incre铆ble-para-su-perfil-de-github/)
-![C贸digo en acci贸n](http://www.youtube.com/watch?v=hHbWF1Bvgf4)
+## ?? Imágenes de referencia
 
-## 馃搨 Estructura del proyecto
+
+## ?? Estructura del proyecto
