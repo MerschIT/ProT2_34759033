@@ -1,22 +1,22 @@
 # 🚀 Proyecto: Pagina web responsive 
 # Talentos Digitales
-## ?? Descripci¨®n
+## 🌟 Descripción
 Este es un proyecto web dise?ado para el tramo 2 de la cursada del programa Talentos Digitales de la provincia de Corrientes.
 
-## ?? Caracter¨ªsticas
-- Dise?o responsivo
+## 📌 Características
+- Diseño responsivo
 - Otro
 - Otro
 
 
-## ??? Tecnolog¨ªas utilizadas
+## 🛠️ Tecnologías utilizadas
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - Framework Bootstrap
 - Base de datos ....
 
-## ?? Im¨¢genes de referencia
+## 📷 Imágenes de referencia
 
 
-## ?? Estructura del proyecto
+## 📂 Estructura del proyecto
