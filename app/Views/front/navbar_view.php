@@ -2,7 +2,13 @@
 
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+<!-- AGREGO MI CODIGO DE IMAGEN DE LOGO -->
+    <a class="navbar-brand" href="#">
+  <img src="assets/img/logo.png" alt="Logo" width="50" height="50" class="d-inline-block align-text-top">
+  
+</a>
+<!-- FIN IMAGEN DE LOGO -->
+    
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

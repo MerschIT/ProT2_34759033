@@ -21,8 +21,12 @@ body {
     }
 */
 
+body {
+  background-color: #f2854b !important;
+}
+
 header {  
-background-color: #69bd45;  
+background-color: #f2854b !important;  
 color: #fff;  
 text-align: center;  
 padding: 20px;  
@@ -30,7 +34,7 @@ padding: 20px;
 section {  
 padding: 20px; /* espaciado para la sección de 20 pixeles */}  
 footer {  
-background-color: #4caf50; /* Color de fondo del footer */  
+background-color: #c72213 !important; /* Color de fondo del footer */  
 color: #fff;  
 padding: 20px 0; }  
 .footer-content {  
@@ -40,7 +44,7 @@ text-align: center; }
 
 /* Estilos para el nav y enlaces de ul y li */  
 nav {  
-background-color: #4caf50;  
+background-color: #FFA07A;  
 padding: 10px;  
 }  
 nav ul {  
@@ -60,7 +64,7 @@ padding: 8px 16px;
 border-radius: 5px;  
 }  
 nav ul li a:hover {  
-background-color: #2f8247;  
+background-color: #FFA07A;  
 } 
 
 img {  
