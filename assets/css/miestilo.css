@@ -67,6 +67,10 @@ nav ul li a:hover {
 background-color: #FFA07A;  
 } 
 
+.mi-navbar-bg{
+    background-color: #fffaf4 !important;
+}
+
 img {  
 display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */  
 margin: 0 auto; /* Centrar las imágenes horizontalmente */  
@@ -74,6 +78,14 @@ max-width: 100%; /* Asegurar que las imágenes no excedan el ancho del contenedo
 /*border: 3px solid #69bd45;  Contorno de 3px con un color verde (#69bd45) alrededor de la img.*/
 border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */  
 }  
+
+.img-banner{
+    width: 100%;
+    height: auto;
+    max-height: 400px; /* Altura máxima de la imagen */
+    
+    object-fit: cover; /* Mantiene la relación de aspecto */
+}
 
 .logo {
     width: 20px; 
