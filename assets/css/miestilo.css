@@ -83,7 +83,6 @@ border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
     width: 100%;
     height: auto;
     max-height: 400px; /* Altura máxima de la imagen */
-    
     object-fit: cover; /* Mantiene la relación de aspecto */
 }
 
@@ -106,4 +105,8 @@ border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
 
 .logo-contenedor:hover {
     transform: scale(1.25); /* Aumenta el tamaño un 20% */
+}
+
+.carrousel-borde{
+    border-radius: 0%;
 }

@@ -4,14 +4,19 @@
      <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/img/1.jpg" class="d-block w-100" alt="...">
+      <img src="assets/img/lomito.jpg" class="d-block w-100 carrousel-borde" alt="Imagen de lomito">
     </div>
     <div class="carousel-item">
-      <img src="assets/img/2.jpg" class="d-block w-100" alt="...">
+      <img src="assets/img/papas.jpg" class="d-block w-100 carrousel-borde" alt="Imagen de papas">
     </div>
     <div class="carousel-item">
-      <img src="assets/img/3.jpg" class="d-block w-100" alt="...">
+      <img src="assets/img/pastas.jpg" class="d-block w-100 carrousel-borde" alt="Imagen de pastas">
     </div>
+    <div class="carousel-item">
+      <img src="assets/img/hamburguesa.jpg" class="d-block w-100 carrousel-borde" alt="Imagen de hamburguesa">
+    </div>
+  </div>
+    
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
