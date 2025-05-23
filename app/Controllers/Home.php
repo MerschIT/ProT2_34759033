@@ -10,6 +10,7 @@ class Home extends BaseController
          view('front/head_view').
          view('front/navbar_view').
          view('front/principal').
+         view('front/cards_view').
          view('front/footer_view');
     }
 }
