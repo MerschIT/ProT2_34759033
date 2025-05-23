@@ -7,8 +7,8 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/miestilo.css" rel="stylesheet">
 </head>
-<header>
-    <img src="assets/img/banner.png" alt="Banner"  class="img-banner" id="banner">   
-</header>
+
 <body>
-    
+    <header>
+    <img src="assets/img/banner.png" alt="Banner" class="img-fluid w-50 mx-auto d-block" id="banner">
+</header>
