@@ -105,6 +105,14 @@ border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
 
 .logo-contenedor{
     background-color: #8d190e;
+    
+}
+
+.logo-footer{
+    height: 100%;
+    width: auto;
+    max-height: 50px; /* Para evitar que se desborde */
+    display: block;
 }
 
 .logo-contenedor:hover {
@@ -128,9 +136,9 @@ border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
 .mas-pedidos{
     background-color: #c72213;
     color: #fff;
-    padding: 10px 0;
-    border-radius: 8px;
+    padding: 10px 0;    
+    margin-top: 10px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-    font-size: 1.5rem;
+    font-size: 1.9rem;
     text-shadow: 2px 2px 4px #00000080;
 }
