@@ -1,6 +1,6 @@
  <footer>
             <P>SOY UN FOOTER</P>
-            <nav>
+            <nav class="logo-contenedor">
             <UL>
                 <li class="logo-contenedor"><a href="https://google.com" class="link"><img src="assets/img/google_logo.png" alt="Logo Google" class="logo">Google</a></li>
                 <li class="logo-contenedor"><a href="https://yahoo.com" class="link"><img src="assets/img/yahoo_logo.svg" alt="Logo Yahoo" class="logo">Yahoo</a></li>

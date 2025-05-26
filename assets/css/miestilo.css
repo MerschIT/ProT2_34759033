@@ -103,10 +103,34 @@ border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
     color: #fbffc9;
 }
 
+.logo-contenedor{
+    background-color: #8d190e;
+}
+
 .logo-contenedor:hover {
     transform: scale(1.25); /* Aumenta el tamaño un 20% */
 }
 
 .carrousel-borde{
     border-radius: 0%;
+}
+
+.login{
+    background-color: #763602 !important;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.mas-pedidos{
+    background-color: #c72213;
+    color: #fff;
+    padding: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    font-size: 1.5rem;
+    text-shadow: 2px 2px 4px #00000080;
 }

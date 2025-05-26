@@ -1,9 +1,14 @@
-<div class="container">
-    <div class="row">
-        
+<span class="mas-pedidos d-block rounded-0 text-center fw-bold shadow-text  w-100">LOS MAS PEDIDOS</span>
 
-        <div class="card col" style="width: 18rem;">
-        <img src="assets/img/card_especial.jpg" class="card-img-top" alt="...">
+<div class="container">
+
+
+
+    <div class="row justify-content-center">
+
+
+       <div class="card col-12 col-md-4 mt-2 mb-1 w-100 rounded-0 p-0" >
+        <img src="assets/img/card_especial.jpg" class="card-img-top rounded-0" alt="...">
         <div class="card-body">
             <h5 class="card-title">Hamburguesa ESPECIAL</h5>
             <p class="card-text">Carne vacuna jugosa, lechuga fresca, tomate, cebolla morada, panceta crujiente, huevo frito, queso, pepinillos y salsa secreta.</p>
@@ -11,7 +16,7 @@
         </div>
         </div>
 
-        <div class="card col" style="width: 18rem;">
+        <div class="card col-12 col-md-4 mt-2 mb-1 w-100 rounded-0 p-0" >
         <img src="assets/img/card_ham_casera.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Hamburguesa CASERA</h5>
@@ -20,7 +25,7 @@
         </div>
         </div>
 
-        <div class="card col" style="width: 18rem;">
+        <div class="card col-12 col-md-4 mt-2 mb-1 w-100 rounded-0 p-0" >
         <img src="assets/img/card_doble_carne.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Hamburguesa DOBLE CARNE</h5>

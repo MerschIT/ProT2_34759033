@@ -1,7 +1,7 @@
 
     <!-- INICIO CAROUSEL -->
 
-     <div id="carouselExampleAutoplaying" class="carousel slide container-xl" data-bs-ride="carousel">
+     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
       <div class="carousel-item active">
       <img src="assets/img/lomito.jpg" class="d-block w-100 carrousel-borde" alt="Imagen de lomito">
