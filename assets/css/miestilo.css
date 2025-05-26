@@ -115,8 +115,8 @@ border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
     display: block;
 }
 
-.logo-contenedor:hover {
-    transform: scale(1.25); /* Aumenta el tamaño un 20% */
+.logo-footer:hover {
+    transform: scale(1.15); /* Aumenta el tamaño un 20% */
 }
 
 .carrousel-borde{
