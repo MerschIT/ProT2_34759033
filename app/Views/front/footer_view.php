@@ -13,5 +13,16 @@
         <!-- SCRIPTS DE BOOTSTRAP -->
             <script src="assets/js/bootstrap.bundle.min.js" ></script>
         <!-- FIN SCRIPTS DE BOOTSTRAP -->
+
+        <!-- SCRIPT DEL MODAL -->
+         <script>
+document.getElementById('logoModalBtn').addEventListener('click', function() {
+  var myModal = new bootstrap.Modal(document.getElementById('logoModal'));
+  myModal.show();
+});
+</script> 
+<!-- FIN SCRIPT DEL MODAL -->
+
+
 </body>
 </html>

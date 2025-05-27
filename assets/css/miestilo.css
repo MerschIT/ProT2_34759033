@@ -142,3 +142,8 @@ border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
     font-size: 1.9rem;
     text-shadow: 2px 2px 4px #00000080;
 }
+
+.modal-body {
+    word-break: break-word;
+    white-space: normal;
+}
