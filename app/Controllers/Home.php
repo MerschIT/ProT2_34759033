@@ -23,4 +23,14 @@ class Home extends BaseController
          
          view('front/footer_view');
     }
+
+    public function quienes_somos()
+    {
+        return
+         view('front/head_view').
+         view('front/navbar_view').
+         view('front/quienes_somos').
+         
+         view('front/footer_view');
+    }
 }

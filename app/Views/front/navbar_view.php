@@ -45,7 +45,7 @@
           <a class="nav-link active fs-4" href="<?= base_url('/') ?>">Principal</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active fs-4" href="#">Quienes somos</a>
+          <a class="nav-link active fs-4" href="<?= base_url('/quienes_somos') ?>">Quienes somos</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active fs-4" href="#">Acerca de</a>
