@@ -29,7 +29,7 @@
     </div>
   </div>
   <button type="submit" class="btn btn-primary">Ingresar</button>
-  <button type="submit" class="btn btn-danger">Cancelar</button>
+  <a href="<?= base_url('/') ?>" class="btn btn-danger">Cancelar</a>
 </form>
 
 </div>

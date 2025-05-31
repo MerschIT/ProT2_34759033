@@ -50,7 +50,7 @@
   <!-- BOTONES -->
 
   <button type="submit" class="btn btn-primary">Registrarse</button>
-  <button type="submit" class="btn btn-danger">Cancelar</button>
+  <a href="<?= base_url('/') ?>" class="btn btn-danger">Cancelar</a>
 </form>
 
 </div>
