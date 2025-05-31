@@ -48,10 +48,10 @@
           <a class="nav-link active fs-4" href="<?= base_url('/quienes_somos') ?>">Quienes somos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active fs-4" href="#">Acerca de</a>
+          <a class="nav-link active fs-4" href="<?= base_url('/acerca_de') ?>">Acerca de</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active fs-4" href="#">Registrarse</a>
+<a class="nav-link active fs-4" href="<?= base_url('/register') ?>">Registrarse</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active fs-4" href="<?= base_url('/login') ?>">Login</a>
@@ -59,7 +59,7 @@
         
       </ul>
       <form class="d-flex pt-2" role="search">
-        <input class="form-control me-2" type="search" placeholder="Que quieres comer" aria-label="Search"/>
+        <input class="form-control me-2 font-search" type="search" placeholder="¿Qué buscas?" aria-label="Search"/>
         <button class="btn btn-outline-success" type="submit">Buscar</button>
       </form>
     </div>

@@ -177,3 +177,23 @@ border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
             border-radius: 10px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.15);
         }
+
+        .informacion-container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .font-search {
+            font-family: 'Arial', sans-serif;
+            font-size: 1.2em;
+            color: #d8d8d8;
+            
+        }
+        .font-search::placeholder {
+    color: #bbb;      /* Un gris claro, puedes ajustar el color */
+    opacity: 1;       /* Asegura que el color se aplique completamente */
+}

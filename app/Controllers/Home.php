@@ -33,4 +33,24 @@ class Home extends BaseController
          
          view('front/footer_view');
     }
+
+     public function acerca_de()
+    {
+        return
+         view('front/head_view').
+         view('front/navbar_view').
+         view('front/acerca_de').
+         
+         view('front/footer_view');
+    }
+
+     public function register()
+    {
+        return
+         view('front/head_view').
+         view('front/navbar_view').
+         view('front/register').
+         
+         view('front/footer_view');
+    }
 }
