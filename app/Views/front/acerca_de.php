@@ -74,7 +74,10 @@
 
     <div class="cta">
         <p>¿Listo para disfrutar de nuestros sabores? ¡Visítanos o haz tu pedido hoy mismo!</p>
-        <p><a href="contacto.html">Contáctanos</a></p>
+        <p class="fs-3 d-inline-flex align-items-center">
+        <img src="assets/img/whatsapp-logo.png" alt="Logo Whatsapp" style="width:28px; height:28px; vertical-align:middle; margin-right:8px;">
+        <a href="tel:3794999999" style="color:inherit; ">Whatsapp: 3794-999999</a>
+        </p>
     </div>
 
 </div>
