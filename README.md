@@ -12,8 +12,8 @@ Este es un proyecto web diseñado para el tramo 2 de la cursada del programa Tale
 ## :gear: Tecnologías utilizadas
 - HTML5
 - CSS3
-- JavaScript (ES6+)
 - Framework Bootstrap
+- Codeigniter
 - Base de datos ....
 
 ## :camera: Imágenes de referencia
